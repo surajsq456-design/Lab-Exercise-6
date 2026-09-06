@@ -1,7 +1,7 @@
 # Lab-Exercise-6
 ## NAME: Suraj R
 ## REGISTER NUMBER: 212225220112
-## DATE: 06/09/2026
+## DATE: 03/09/2026
 
 ## AIM
 
